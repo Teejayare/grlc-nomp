@@ -46,7 +46,7 @@
         "nonce": "^1.0.4",
         "redis": "^2.7.1",
         "request": "^2.88.0",
-        "stratum-pool": "git://github.com/Invader444/grlc-node-stratum-pool.git"
+        "stratum-pool": "git://github.com/Teejayare/grlc-node-stratum-pool.git"
     },
     "engines": {
         "node": ">=6.11.2"
